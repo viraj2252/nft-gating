@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2709925e-6221-4b83-9e7b-d60057c071a7" name="Changes" comment="chore: initial client server before dynamic.xyz">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/arrow-circle-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/confused-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/cool-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/crying-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/grinning-squinting-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/happy-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/heart-eyes-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/laugh-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/sad-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/shocked-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/smiling-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/smiling-with-eyes-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/surprised-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/wink-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/emojis/worried-emoji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/icons/file-notes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/notebook-paper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/DateDisplay.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/EmojiField.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/EntryCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/EntryEditor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ImageDisplay.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/TheHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/WalletConnector.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/composables/UseEmojis.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/server/src/modules/contract/contractService.ts" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ayhe6zijTp7izftSuFczcLDlXz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/navindra.kothalawal/development/nft-gating/server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/Users/navindra.kothalawal/development/nft-gating/server/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/src/common/models" />
+      <recent name="$PROJECT_DIR$/server/src/modules/contract/abis" />
+      <recent name="$PROJECT_DIR$/server/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2709925e-6221-4b83-9e7b-d60057c071a7" name="Changes" comment="" />
+      <created>1705296819795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705296819795</updated>
+      <workItem from="1705296825129" duration="7158000" />
+      <workItem from="1705314905240" duration="8213000" />
+      <workItem from="1705490987028" duration="965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/server" />
+    </ignored-roots>
+    <MESSAGE value="chore: initial client server before dynamic.xyz" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: initial client server before dynamic.xyz" />
+  </component>
+</project>
